@@ -203,6 +203,10 @@ Todas as traduções para este repositório serão listadas abaixo:
  * 📜 [How to better check data types in JavaScript — Webbjocke](https://webbjocke.com/javascript-check-data-types/)
  * 📜 [Checking for the Absence of a Value in JavaScript — Tomer Aberbach](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
 
+ ### Artigos (português)
+
+ * 📜 [Qual é a diferença entre "==" e "===" no JavaScript ?](https://spacetraveling-tun.vercel.app/post/javascript-e-uma-linguagem-de-tipagem-dinamica.-isso)
+
 ### Vídeos
 
  * 🎥 [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
@@ -343,6 +347,9 @@ Todas as traduções para este repositório serão listadas abaixo:
  * 📜 [A Brief History of Google’s V8 Javascript Engine — Clair Smith](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
  * 📜 [JavaScript essentials: why you should know how the engine works - Rainer Hahnekamp](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
 
+### Artigos (português)
+
+ * 📜 [Programação assíncrona, Event Loop e NodeJs](https://spacetraveling-tun.vercel.app/post/a-programacao-assincrona)
 
 ### Vídeos
 
