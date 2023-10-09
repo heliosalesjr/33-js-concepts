@@ -57,7 +57,7 @@ Todas as traduções para este repositório serão listadas abaixo:
 1. **[Pilha de chamadas](#1-pilha-de-chamadas)**
 2. **[Tipos primitivos](#2-tipos-primitivos)**
 3. **[Tipos de valores e Tipos de referências](#3-tipos-de-valores-e-tipos-de-refer%C3%AAncias)**
-4. **[Implícito, Explicito, Nominal, Estruturando e Chamada de métodos](#4-implícito-explícito-nominal-estruturando-e-chamada-de-métodos)**
+4. **[Implícito, Explicito, Nominal, Estruturado e Chamada de métodos](#4-implícito-explícito-nominal-estruturando-e-chamada-de-métodos)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Escopo da Função, Escopo do Bloco e Escopo Léxico](#6-escopo-da-função-escopo-do-bloco-e-escopo-léxico)**
 7. **[Expression vs Statement](#7-expression-vs-statement)**
@@ -166,7 +166,7 @@ Todas as traduções para este repositório serão listadas abaixo:
 
 ---
 
-## 4. Implícito, Explícito, Nominal, Estruturando e Chamada de métodos
+## 4. Implícito, Explícito, Nominal, Estruturado e Chamada de métodos
 
 ### Artigos (inglês)
 
